@@ -344,9 +344,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // =========================================================================
-    // 4. Countdown Timer Logic (January 17, 2027 at 11:00 AM)
+    // 4. Countdown Timer Logic (December 6, 2026 at 11:00 AM)
     // =========================================================================
-    const targetDate = new Date("January 17, 2027 11:00:00").getTime();
+    const targetDate = new Date("December 6, 2026 11:00:00").getTime();
     const daysEl = document.getElementById('days');
     const hoursEl = document.getElementById('hours');
     const minutesEl = document.getElementById('minutes');
@@ -555,8 +555,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (shareBtn) {
         shareBtn.addEventListener('click', async () => {
             const shareData = {
-                title: 'Two Nikahs. One Celebration | Joint Wedding Invitation',
-                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the double wedding celebration of Fathimathul Nafeela & Mohammed Zunaid and Mohammed Nihal & Shaima on Sunday, January 17, 2027 at Royal Palace, Tenkayedapadavu, Ganjimutt, Mangalore. Two Nikahs (11:00 AM & 11:30 AM), followed by one shared reception. Kindly grace this occasion with your presence and duas.',
+                title: 'Save the Date | Aaliya Mehazin & Shibil Muhammad',
+                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the wedding ceremony of Aaliya Mehazin & Shibil Muhammad on Sunday, December 6, 2026 at Papilio Wonderland, Padaparamba. Nikah at 11:00 AM. Kindly grace this occasion with your presence and duas.',
                 url: window.location.href
             };
 

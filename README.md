@@ -1,11 +1,11 @@
 # save-the-date-aaliya
 
-A royal luxury Muslim double wedding invitation website for **Fathimathul Nafeela & Mohammed Zunaid** and **Mohammed Nihal & Shaima**.
+A royal luxury Muslim wedding invitation website for **Aaliya Mehazin & Shibil Muhammad**.
 
-- **Wedding Date**: Sunday, January 17, 2027
-- **Timings**:
-  - **First Nikah**: 11:00 AM (Fathimathul Nafeela & Mohammed Zunaid)
-  - **Second Nikah**: 11:30 AM (Mohammed Nihal & Shaima)
-  - **Reception & Feast**: After Nikah till 2:30 PM
-- **Venue**: Royal Palace, Tenkayedapadavu, Ganjimutt, Mangalore
-- **Google Maps**: [Royal Palace Location](https://maps.app.goo.gl/2ABSfz9AhNGzcSU56?g_st=iw)
+- **Bride**: Aaliya Mehazin
+- **Groom**: Shibil Muhammad
+- **Wedding Date**: Sunday, December 6, 2026 (06/12/2026)
+- **Wedding Time**: 11:00 AM (Nikah)
+- **Venue**: Papilio Wonderland (Papilio Event Hall)
+- **Address**: Padaparamba, Palakaparamba
+- **Google Maps**: [Papilio Wonderland Location](https://maps.app.goo.gl/CQpjAD3jJJdVDYHh6)

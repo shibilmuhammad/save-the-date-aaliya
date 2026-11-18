@@ -344,9 +344,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // =========================================================================
-    // 4. Countdown Timer Logic (December 6, 2026 at 11:00 AM)
+    // 4. Countdown Timer Logic (December 6, 2030 at 11:00 AM)
     // =========================================================================
-    const targetDate = new Date("December 6, 2026 11:00:00").getTime();
+    const targetDate = new Date("December 6, 2030 11:00:00").getTime();
     const daysEl = document.getElementById('days');
     const hoursEl = document.getElementById('hours');
     const minutesEl = document.getElementById('minutes');
@@ -556,7 +556,7 @@ document.addEventListener('DOMContentLoaded', () => {
         shareBtn.addEventListener('click', async () => {
             const shareData = {
                 title: 'Save the Date | Aaliya Mehazin & Shibil Muhammad',
-                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the wedding ceremony of Aaliya Mehazin & Shibil Muhammad on Sunday, December 6, 2026 at Papilio Wonderland, Padaparamba. Nikah at 11:00 AM. Kindly grace this occasion with your presence and duas.',
+                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the wedding ceremony of Aaliya Mehazin & Shibil Muhammad on Sunday, December 6, 2030 at Papilio Wonderland, Padaparamba. Nikah at 11:00 AM. Kindly grace this occasion with your presence and duas.',
                 url: window.location.href
             };
 

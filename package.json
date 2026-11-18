@@ -1,0 +1,13 @@
+{
+  "name": "nafeela-zunaid",
+  "version": "1.0.0",
+  "description": "Joint Wedding invitation website for Fathimathul Nafeela & Mohammed Zunaid and Mohammed Nihal & Shaima",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
